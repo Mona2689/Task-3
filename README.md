@@ -1,1 +1,1 @@
-Here is my completed Task 1 Python project, titled "Simple Password Generator," as part of my OasisInfobyte internship.This Python script lets users create random passwords by specifying length and character preferences
+Here is my completed Task 3 Python project, titled "Simple Password Generator," as part of my OasisInfobyte internship.This Python script lets users create random passwords by specifying length and character preferences
